@@ -1,0 +1,3 @@
+dynamic_clamp version 0.5.7
+16:13:43 EST 03/10/10
+Update of 0.5.6

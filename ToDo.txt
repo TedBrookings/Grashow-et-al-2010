@@ -1,0 +1,11 @@
+Something's up with pyloric fits.  Fix it.
+
+Something's up with clustering and map properties.  Fix it.
+  Also: maybe improve clustering algorithm.  Low priority.
+
+Switch from p-values and R^2 to using only reduced chi^2
+
+Maybe remove JackknifeFit, and just do regular fits
+  -Faster
+  -Simpler
+  -No longer necessary with proper multiple-comparisons correction
